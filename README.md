@@ -7,40 +7,40 @@ I am a Software Engineer with 16+ years of experience architecting and implement
 - Developed and implemented a standardized approach to architectural documentation and code reviews.
 
 # 💻 Tech Stack:
-Programming Languages:
+<b>Programming Languages:</b>
  - Java
  - Python
 
-Frameworks:
+<b>Frameworks:</b>
  - Spring Boot
  - Spring Cloud
  - Django (Python)
 
-Architectural Patterns:
+<b>Architectural Patterns:</b>
  - Microservices Architecture
  - Service-Oriented Architecture (SOA)
  - RESTful APIs
 
-Messaging Queues:
+<b>Messaging Queues:</b>
  - RabbitMQ
  - Kafka
 
-Databases:
+<b>Databases:</b>
  - MySQL
  - MongoDB
 
-Databases:
+<b>Databases:</b>
  - MySQL
  - MongoDB
 
-Cloud Services:
+<b>Cloud Services:</b>
  - AWS Lambda
  - AWS EC2
  - AWS S3
  - AWS ECS:
  - AWS Cognito
 
-Search & Analytics:
+<b>Search & Analytics:</b>
  - ElasticSearch
  - Kibana
 
