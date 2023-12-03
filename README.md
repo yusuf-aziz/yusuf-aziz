@@ -8,41 +8,30 @@ I am a Software Engineer with 16+ years of experience architecting and implement
 
 # 💻 Tech Stack:
 <b>Programming Languages:</b>
- - Java
- - Python
+- Java
+- Python
 
 <b>Frameworks:</b>
- - Spring Boot
- - Spring Cloud
- - Django (Python)
+- Spring Boot
+- Spring Cloud
+- Django (Python)
 
 <b>Architectural Patterns:</b>
- - Microservices Architecture
- - Service-Oriented Architecture (SOA)
- - RESTful APIs
+- Microservices Architecture
+- Service-Oriented Architecture (SOA)
+- RESTful APIs
 
 <b>Messaging Queues:</b>
- - RabbitMQ
- - Kafka
+RabbitMQ, Kafka
 
 <b>Databases:</b>
- - MySQL
- - MongoDB
+MySQL, MongoDB
 
-<b>Databases:</b>
- - MySQL
- - MongoDB
+<b>Cloud Services:</b> Amazon-WebServices, Lambda, S3-Bucket, ESC, Fargate, RDS, Elastic-Cache.
 
-<b>Cloud Services:</b>
- - AWS Lambda
- - AWS EC2
- - AWS S3
- - AWS ECS:
- - AWS Cognito
+<b>Search & Analytics:</b> ElasticSearch, Kibana
 
-<b>Search & Analytics:</b>
- - ElasticSearch
- - Kibana
+<b>DevOps:</b> Docker, Kubernetes, Jenkins, GitHub 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yusuf-malkan-492a4310) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@yusuf.aziz) 
