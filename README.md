@@ -2,8 +2,8 @@
 I am a Software Engineer with 16+ years of experience architecting and implementing scalable solutions for startups and global enterprises.<br><br>I love turning ideas into reality, using tech to solve complex business challenges and helping teams create successful products. For 8+ years, I have led making products from scratch at startups, helping teams innovate and succeed.
 
 - Experienced in designing, developing & deploying large scale applications on microservice architecture.
-- Proven ability to lead teams, drive technical advancements, and successfully design and develop projects from scratch.
 - Successfully decomposed a monolithic application into a microservices architecture using the strangler pattern, enhancing its stability and scalability.
+- Proven ability to lead teams, drive technical advancements, and successfully design and develop projects from scratch.
 - Developed and implemented a standardized approach to architectural documentation and code reviews.
 
 
