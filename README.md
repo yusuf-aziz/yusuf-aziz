@@ -3,11 +3,9 @@ I am a Software Engineer with 16+ years of experience architecting and implement
 
 ## Why Contribute on GitHub:
 
-I decided to make projects on GitHub because I couldn't find complete projects that help me understand concepts from start to finish with examples.
+I started making projects on GitHub because I couldn't find complete projects that show how everything works from start to finish. These projects are like examples that can help you understand things better. Just clone the repository, and you're set to use it in your project or learn through practical examples. 
 
-When I learn something new, it's tough to find projects for practicing. That's why I made these projects! They're made to help you practice what you're learning.
-
-Just clone the repository, and you're set to use it in your project or learn through practical examples. Let's strengthen our skills together! For more information, drop me a message at yusuf.aziz@gmail.com
+Let's strengthen our skills together! For more information, drop me a message at yusuf.aziz@gmail.com
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
