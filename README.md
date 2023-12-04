@@ -1,10 +1,13 @@
 # 💫 About Me:
 I am a Software Engineer with 16+ years of experience architecting and implementing scalable solutions for startups and global enterprises.<br><br>I love turning ideas into reality, using tech to solve complex business challenges and helping teams create successful products. For 8+ years, I have led making products from scratch at startups, helping teams innovate and succeed.
 
-- Experienced in designing, developing & deploying large scale applications on microservice architecture.
-- Successfully decomposed a monolithic application into a microservices architecture using the strangler pattern, enhancing its stability and scalability.
-- Proven ability to lead teams, drive technical advancements, and successfully design and develop projects from scratch.
-- Developed and implemented a standardized approach to architectural documentation and code reviews.
+## Why Contribute on GitHub:
+
+I chose to create sample projects on GitHub to help tackle a common challenge: finding hands-on projects for learning new topics. These projects give you a starting point and a practical example.
+
+When I learn something new, I often struggle to find quickstart projects for hands-on practice. So, I created these quickstart projects! They're designed to assist in practicing and applying your learning.
+
+Just clone the repository, and you're set to use it in your project or learn through practical examples. Let's strengthen our skills together! For more information, drop me a message at yusuf.aziz@gmail.com.
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
