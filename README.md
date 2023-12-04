@@ -3,7 +3,7 @@ I am a Software Engineer with 16+ years of experience architecting and implement
 
 ## Why Contribute on GitHub:
 
-I chose to create sample projects on GitHub to help tackle a common challenge: finding hands-on projects for learning new topics. These projects give you a starting point and a practical example.
+I decided to create projects on GitHub to help tackle a common challenge: finding hands-on projects for learning new topics. These projects give you a starting point and a practical example.
 
 When I learn something new, I often struggle to find quickstart projects for hands-on practice. So, I created these quickstart projects! They're designed to assist in practicing and applying your learning.
 
