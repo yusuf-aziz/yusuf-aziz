@@ -5,7 +5,7 @@ Experienced Software Engineer with 16+ years in building scalable solutions for 
 
 I started making projects on GitHub because complete projects that show how everything works from start to finish couldn't be found. These projects are the sorts of examples to make you understand things better. Just clone the repository, and you're good to use it in your project or learn through practical examples.
 
-Let’s grow stronger together! Reach me at yusuf.aziz@gmail.com."
+Let’s grow stronger together! Reach me at yusuf.aziz@gmail.com.
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
