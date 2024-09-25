@@ -1,11 +1,11 @@
 # 💫 About Me:
-I am a Software Engineer with 16+ years of experience architecting and implementing scalable solutions for startups and global enterprises.<br><br>I love turning ideas into reality, using tech to solve complex business challenges and helping teams create successful products. For 8+ years, I have led making products from scratch at startups, helping teams innovate and succeed.
+Experienced Software Engineer with 16+ years in building scalable solutions for startups and global enterprises. I love turning ideas into reality with tech, solving complex problems, and helping teams create great products. For 10+ years, I have led product development from scratch, driving innovation and success at startups.
 
 ## Why Contribute on GitHub:
 
-I started making projects on GitHub because I couldn't find complete projects that show how everything works from start to finish. These projects are like examples that can help you understand things better. Just clone the repository, and you're set to use it in your project or learn through practical examples. 
+I started making projects on GitHub because complete projects that show how everything works from start to finish couldn't be found. These projects are the sorts of examples to make you understand things better. Just clone the repository, and you're good to use it in your project or learn through practical examples.
 
-Let's strengthen our skills together! For more information, drop me a message at yusuf.aziz@gmail.com
+Let’s grow stronger together! Reach me at yusuf.aziz@gmail.com."
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
