@@ -1,9 +1,7 @@
 # 💫 About Me:
-Experienced Software Engineer with 16+ years in building scalable solutions for startups and global enterprises. I love turning ideas into reality with tech, solving complex problems, and helping teams create great products. For 10+ years, I have led product development from scratch, driving innovation and success at startups.
+I’m Yusuf Malkan, a software engineer with 17+ years of experience, specializing in Java, Spring, and AWS. My focus is on designing systems that support high growth and scalability. In startups across fintech, proptech, and autotech, I’ve driven innovation and efficiency through cloud-native solutions and microservices architectures.
 
-## Why Contribute on GitHub:
-
-I started making projects on GitHub because complete projects that show how everything works from start to finish couldn't be found. These projects are the sorts of examples to make you understand things better. Just clone the repository, and you're good to use it in your project or learn through practical examples.
+Here, you’ll find my collection of projects demonstrating solutions to common engineering challenges. From database optimization to observability, my repos are designed for practical learning and easy integration.
 
 Let’s grow stronger together! Reach me at yusuf.aziz@gmail.com.
 
