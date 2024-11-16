@@ -1,9 +1,9 @@
 # 💫 About Me:
-I’m Yusuf Malkan, a software engineer with 17+ years of experience, specializing in Java, Spring, and AWS. My focus is on designing systems that support high growth and scalability. In startups across fintech, proptech, and autotech, I’ve driven innovation and efficiency through cloud-native solutions and microservices architectures.
+Hi, I’m Yusuf Malkan. I’ve been building software for over 17 years, working with Java, Spring, and AWS to create systems that are reliable, scalable, and ready to grow. I’ve spent much of my career in startups, solving real-world problems using modern architectures like microservices and event-driven design.
 
-Here, you’ll find my collection of projects demonstrating solutions to common engineering challenges. From database optimization to observability, my repos are designed for practical learning and easy integration.
+I also enjoy sharing what I’ve learned on Medium, writing about software engineering, architecture, and lessons from building systems at scale.
 
-Let’s grow stronger together! Reach me at yusuf.aziz@gmail.com.
+Feel free to check out my projects or drop me a message at yusuf.aziz@gmail.com. Always happy to connect!
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
