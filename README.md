@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi, I’m Yusuf Malkan. I’ve been building software for over 17 years, working with Java, Spring, and AWS to create systems that are reliable, scalable, and ready to grow. I’ve spent much of my career in startups, solving real-world problems using modern architectures like microservices and event-driven design.
 
-I also enjoy sharing what I’ve learned on Medium, writing about software engineering, architecture, and lessons from building systems at scale.
+I also enjoy sharing what I’ve learned on [Medium](https://medium.com/@yusuf.aziz), writing about software engineering, architecture, and lessons from building systems at scale.
 
 Feel free to check out my projects or drop me a message at yusuf.aziz@gmail.com. Always happy to connect!
 
