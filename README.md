@@ -4,7 +4,7 @@ Hi, I’m Yusuf Malkan. I’ve been building software for over 17 years, working
 I also enjoy sharing what I’ve learned on [Medium](https://medium.com/@yusuf.aziz), writing about software engineering, architecture, and lessons from building systems at scale.
 
 Feel free to check out my projects or drop me a message at yusuf.aziz@gmail.com. Always happy to connect!
-
+<!---
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
@@ -19,7 +19,7 @@ Feel free to check out my projects or drop me a message at yusuf.aziz@gmail.com.
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)  
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)  -->
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yusuf-malkan-492a4310) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@yusuf.aziz) 
