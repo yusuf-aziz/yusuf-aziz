@@ -22,7 +22,7 @@ Feel free to check out my projects or drop me a message at yusuf.aziz@gmail.com.
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)  -->
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yusuf-malkan-492a4310) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@yusuf.aziz) 
+[![LinkedIn Yusuf-Aziz](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yusuf-aziz) [![Medium Yusuf-Aziz](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@yusuf.aziz) 
 
 <!---
 # 📊 GitHub Stats:
