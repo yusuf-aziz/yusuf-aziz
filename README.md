@@ -24,7 +24,8 @@ Feel free to check out my projects or drop me a message at yusuf.aziz@gmail.com.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yusuf-malkan-492a4310) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@yusuf.aziz) 
 
+<!---
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yusuf-aziz&theme=dark&hide_border=false)<br/>
 ---
-[![](https://visitcount.itsvg.in/api?id=yusuf-aziz&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=yusuf-aziz&icon=0&color=0)](https://visitcount.itsvg.in)  -->
